@@ -1,2 +1,3 @@
 # React-Practice
-Making movie App
+
+Making movie App with ReactJS
