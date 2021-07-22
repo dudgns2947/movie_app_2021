@@ -13,7 +13,7 @@ class App extends React.Component {
 
   getMovies = async () => {
     const movies = await axios.get("https://yts.mx/api/v2/list_movies.json")
-  }
+  };
 
   componentDidMount() {
     this.getMovies();
