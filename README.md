@@ -1,3 +1,5 @@
 # React-Practice
 
-Making movie App with ReactJS
+Practice React.
+
+I learned that What component, props, state, jsx, render is.
